@@ -1,4 +1,4 @@
 # Background
-- A CUHK student.
-- Find Hackathon teammates.
+- A CUHK Biochemistry student.
+- Finding Hackathon teammates.
 - Dedicated to technology related to Hong Kong healhcare.
